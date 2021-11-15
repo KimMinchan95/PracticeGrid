@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
+/* grid를 시각적으로 보여주기위해 도와주는 용도 */
+
 * {
   font-family: Raleway;
 }
